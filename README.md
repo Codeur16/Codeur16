@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Codeur16
-- 👀 I’m interested in WEB DEVELOPPEMENT
+- 👀 I’m a  WEB DEVELOPPER
 - 🌱 I’m currently learning REACT and REACT NATIVE
 - 💞️ I’m looking to collaborate on the enterprise
 - 📫 How to reach me portefolio https://loico16.w3spaces.com 
